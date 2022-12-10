@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* CSS styling for the header section of the page */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS';
+    background-color: #6e46ff;
+    color: #ffffff;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.topSection {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* CSS Styling of background image and main body of content */ 
+
+body {
+    background-color: #000000;
+}
+
+
+/* CSS Styling of main content section */ 
+
+.sign-up {
+    width: 100%;
+    display: inline-block;
+
+    
+}
+
+.sign-up h2 {
+    margin-bottom: 20px;
+    font-size: 36px;  
+}
+.sign-up {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Trebuchet MS';
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.sign-up img {
+    max-height: 200px;
+}
+
+/* CSS Styling of Footer at the bottom of the page, foot is hidden per mockup but keeping just in case */
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS';
+    text-align: center; 
+    color: #fffdfd;
+}

@@ -57,6 +57,30 @@ body {
 
 /* CSS Styling of main content section */ 
 
+.about {
+    width: 100%;
+    display: inline-block;
+
+    
+}
+
+.about h2 {
+    margin-bottom: 20px;
+    font-size: 36px;  
+}
+.about {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Trebuchet MS';
+    background-color: #061869;
+    color: #ffffff;
+}
+
+.about img {
+    max-height: 200px;
+}
+
 .sign-up {
     width: 100%;
     display: inline-block;

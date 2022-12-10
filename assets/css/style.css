@@ -79,7 +79,7 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     padding: 50px;
-    height: 600px;
+    height: auto;
     text-align: center; 
     font-family: 'Trebuchet MS';
     background-color: #061869;
@@ -112,7 +112,7 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     padding: 50px;
-    height: 600px;
+    height: auto;
     text-align: center; 
     font-family: 'Trebuchet MS';
     background-color: #061869;

@@ -73,7 +73,10 @@ body {
     font-size: 60px;  
 }
 .about {
+    margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 50px;
     height: 600px;
     font-family: 'Trebuchet MS';

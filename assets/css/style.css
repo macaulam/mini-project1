@@ -7,6 +7,8 @@
 /* CSS styling for the header section of the page */
 header {
     padding: 20px;
+    position: fixed;
+    width: 100%;
     font-family: 'Trebuchet MS';
     background-color: #6e46ff;
     color: #ffffff;
@@ -89,6 +91,3 @@ footer {
     color: #fffdfd;
 }
 
-.hero {
-    
-}

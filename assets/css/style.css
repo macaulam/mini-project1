@@ -61,7 +61,10 @@ body {
     width: 100%;
     display: inline-block;    
 }
-
+.social h1 {
+    margin-bottom: 20px;
+    font-size: 40px;  
+}
 .about h2 {
     margin-bottom: 20px;
     font-size: 36px;  
@@ -84,6 +87,39 @@ body {
 }
 
 .about img {
+    max-height: 200px;
+}
+
+.social {
+    width: 100%;
+    display: inline-block;    
+}
+.social h1 {
+    margin-bottom: 20px;
+    font-size: 40px;  
+}
+.social h2 {
+    margin-bottom: 20px;
+    font-size: 60px;  
+}
+.social h3 {
+    margin-bottom: 20px;
+    font-size: 60px;  
+}
+.social {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 50px;
+    height: 600px;
+    text-align: center; 
+    font-family: 'Trebuchet MS';
+    background-color: #061869;
+    color: #ffffff;
+}
+
+.social img {
     max-height: 200px;
 }
 
@@ -128,3 +164,4 @@ footer {
     height: auto;
   max-width: 100%;
 }
+

@@ -10,7 +10,7 @@ header {
     position: fixed;
     width: 100%;
     font-family: 'Trebuchet MS';
-    background-color: #6e46ff;
+    background-color: #429BB3;
     color: #ffffff;
 }
 
@@ -66,12 +66,13 @@ body {
     font-size: 40px;  
 }
 .about h2 {
-    margin-bottom: 20px;
-    font-size: 36px;  
+    margin-bottom: 30px;
+    font-size: 20px;  
 }
-.about h3 {
+p {
     margin-bottom: 20px;
-    font-size: 60px;  
+    font-size: 30px; 
+ 
 }
 .about {
     margin-top: 20px;
@@ -86,6 +87,9 @@ body {
     color: #ffffff;
 }
 
+ul {
+    font-size: 30px;
+}
 .about img {
     max-height: 200px;
 }
